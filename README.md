@@ -9,7 +9,7 @@
 ◼ Discord: ettisafxrup <br>
 <br>
 ### 🕊 Ettisaf Rup
-#### Solver, Python7DaysBootcamp
+<b>Solver, Python7DaysBootcamp</b>
 Khulna University of Engineering and Technology
 <br>
 #### ⚙ Social Accounts
