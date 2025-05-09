@@ -15,4 +15,4 @@ Khulna University of Engineering and Technology
 <br>
 #### ⚙ Social Accounts
 <a href="https://www.facebook.com/ettisafxrup" target="_blank">Facebook </a>
-<a href="https://www.linkedin.com/in/ettisafxrup/" target="_blank">LinkedIn</a>
+<a href="https://www.linkedin.com/in/ettisafxrup/" target="_blank"> LinkedIn</a>
