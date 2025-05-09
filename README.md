@@ -9,7 +9,7 @@
 
 
 
-<b> 🕊 Ettisaf Rup</b><br>
+<big><b> 🕊 Ettisaf Rup</b></big><br>
 <b>Solver</b>, <a href="">#Python7DaysBootcamp</a> <br>
 Khulna University of Engineering and Technology
 <br>
