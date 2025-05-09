@@ -13,7 +13,6 @@
 <b>Solver</b>, <a href="">#Python7DaysBootcamp</a> <br>
 Khulna University of Engineering and Technology
 <br>
-<br>
 #### ⚙ Social Accounts
 Facebook: https://www.facebook.com/ettisafxrup <br>
 Linkedin: https://www.linkedin.com/in/ettisafxrup/
