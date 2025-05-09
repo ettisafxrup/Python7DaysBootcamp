@@ -4,8 +4,8 @@
 ⭐ Code Repo: https://github.com/ettisafxrup/Python7DaysBootcamp <br>
 <br>
 [❓] for Inquiries, <br>
-◼ Telegram: https://t.me/ettisafxrup <br>
-◼ Discord: ettisafxrup <br>
+◽ Telegram: https://t.me/ettisafxrup <br>
+◽ Discord: ettisafxrup <br>
 
 #### ⚙ Social Accounts
 Facebook: https://www.facebook.com/ettisafxrup <br>
