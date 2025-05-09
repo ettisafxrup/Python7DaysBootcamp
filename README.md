@@ -7,7 +7,7 @@
 ◼ Telegram: https://t.me/ettisafxrup <br>
 ◼ Discord: ettisafxrup <br>
 
-<h2> 🕊 Ettisaf Rup</h2>
+<b> 🕊 Ettisaf Rup</b><br>
 <b>Solver, Python7DaysBootcamp</b> <br>
 Khulna University of Engineering and Technology
 <br>
